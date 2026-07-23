@@ -24,3 +24,9 @@ main();
 
 //this is synchronus call
 //javascript is synchronus and single threaded
+//in asynchronus we use eventloop to manage the call stack
+//Asynchronus call using timers-
+//1. set timeout
+//2. set immediate
+//3. process.next tick
+//4.set interval
