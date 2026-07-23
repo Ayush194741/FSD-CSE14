@@ -21,3 +21,6 @@ function main() {
   console.log("end main");
 }
 main();
+
+//this is synchronus call
+//javascript is synchronus and single threaded
