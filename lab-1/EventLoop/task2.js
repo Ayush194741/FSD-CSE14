@@ -30,4 +30,3 @@ const main =() =>{
     
 };
 main();
-//promise 
